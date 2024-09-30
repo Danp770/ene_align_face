@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   height="24px"
+   width="24px">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>tb_pushpull</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">tb_pushpull</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <path
+     id="path4521"
+     d="m 3.6769581,13.785769 8.2638719,-3.149859 8.436863,3.734964 -9.725637,5.686957 z"
+     style="display:inline;fill:#73725c;fill-opacity:1;stroke:#000000;stroke-width:0.47364765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path4519"
+     d="M 3.3429947,11.714179 11.84514,5.5881963 20.911886,8.4350111 10.545484,17.500133 Z"
+     style="display:inline;fill:#a09f88;fill-opacity:1;stroke:#000000;stroke-width:0.47364765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path4525-0"
+     d="m 8.7899427,9.1165445 3.0314283,-5.304828 3.031263,5.3048544 H 13.337081 V 10.46922 l -3.031405,2.436531 V 9.1165709 Z"
+     style="display:inline;fill:#fb0011;fill-opacity:1;stroke:#ffffff;stroke-width:1.42094314;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path4525"
+     d="m 8.7899427,9.1165445 3.0314283,-5.304828 3.031263,5.3048544 H 13.337081 V 10.46922 l -3.031405,2.436531 V 9.1165709 Z"
+     style="display:inline;fill:#fb0011;fill-opacity:1;stroke:#000000;stroke-width:0.47364765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path4636"
+     d="m 3.3429947,11.714179 0.3339634,2.07159"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.474,0.948;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path4638"
+     d="M 10.652056,20.057831 10.545484,17.500133"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.474,0.948;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path4640"
+     d="M 20.377693,14.370874 20.911886,8.4350111"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.474,0.948;stroke-dashoffset:0;stroke-opacity:1" />
+</svg>

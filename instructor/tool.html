@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>TITLE</title>
+    <link href="instructor.css" rel="stylesheet">
+    <style type="text/css">
+      .mac .win, .win .mac { display: none; }
+    </style>
+    <script type="text/javascript">
+      window.onload = function() {
+        isMac = navigator.platform.indexOf('Win') == -1;
+        document.body.className = isMac ? 'mac' : 'win';
+      }
+    </script>
+  </head>
+  <body class="win">
+    <img src="tool.gif" alt="" />
+    <h1>Align Face Tool</h1>
+    <ul>
+      <li>Align face to given plane.</li>
+    </ul>
+    <h2>Tool Operation</h2>
+    <ol>
+      <li>Click face to align.</li>
+      <li>Click plane to align to, or enter distance to offset face's current plane.</li>
+      <li>Double click to repeat previously made offset.</li>
+    </ol>
+    <h2>Modifier Keys</h2>
+    <ul>
+      <li>Shift = Lock to current orientation.</li>
+      <li>Shift (When double clicking) = reverse direction.</li>
+    </ul>
+    <p>
+      <a target="_blank" href="https://extensions.sketchup.com/en/content/eneroth-align-face">Learn more...</a>
+    </p>
+  </body>
+</html>
